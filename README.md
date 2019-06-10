@@ -28,5 +28,5 @@ AI Based Chatbot
 ![chatbot](https://user-images.githubusercontent.com/1708683/27002771-68618802-4e0b-11e7-870a-3c05e3f68146.png)
 
 ## Author
-great kmaster-x
+great filippo-x
 # python-AI-ChatBot
